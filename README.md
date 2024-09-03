@@ -59,3 +59,10 @@ Sales by Vehicle Category: The report categorizes EV sales by vehicle type (e.g.
 Top 5 EV 4-Wheelers Manufacturers:
 
 The report highlights the top 5 manufacturers of EV 4-wheelers, detailing their market share and contribution to the overall sales. This section provides a competitive analysis of leading brands in the EV space.
+
+# 3) Electronic Store Sales Report
+
+![Screenshot 2024-09-03 203402](https://github.com/user-attachments/assets/dacbbe09-f3a6-4fed-a715-c4cb56d1f648)
+
+![Screenshot 2024-09-03 203422](https://github.com/user-attachments/assets/b15d5982-5481-42d3-825b-2ee33b940dab)
+
