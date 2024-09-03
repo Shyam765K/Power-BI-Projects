@@ -37,6 +37,25 @@ Count of Orders by Year: The number of orders received each year, providing insi
 
 # 2)Electric Vechile Report
 
-![Sc![Screenshot 2024-09-03 203326](https://github.com/user-attachments/assets/d755286c-f487-4dc7-919e-fc8c5dfdde6a)
-reenshot 2024-09-03 203248](https://github.com/user-attachments/assets/82e63ada-2496-4cf2-95de-c67e5b78146e)
+![Screenshot 2024-09-03 203326](https://github.com/user-attachments/assets/590a2b9f-ef4b-4fe9-a6e8-c262a504f5f2)
+![Screenshot 2024-09-03 203248](https://github.com/user-attachments/assets/541b25f0-4e6a-4233-a21e-9b62b4d9b683)
 
+Electric Vehicle Sales Report Summary
+This Power BI project presents an in-depth analysis of the Electric Vehicle (EV) market, focusing on key metrics such as total vehicles sold, penetration rate, and detailed sales data across various dimensions. The report is structured as follows:
+
+Total Vehicles Sold: The report provides a comprehensive overview of the total number of electric vehicles sold, offering insights into the growth and adoption trends in the EV market.
+
+Penetration Rate: The penetration rate of EVs in the overall automotive market is analyzed, showing the percentage of electric vehicles compared to traditional vehicles. This metric highlights the growing acceptance and shift towards sustainable transportation.
+
+Sales Analysis by Timeframe:
+
+Yearly, Quarterly, and Monthly Sales: The report breaks down the sales data by year, quarter, and month, enabling stakeholders to identify seasonal trends, growth patterns, and market dynamics over time.
+Geographical Sales Distribution:
+
+State-wise Sales: The report presents state-wise sales data, allowing for a geographical comparison of EV adoption across different regions. This helps in understanding regional preferences and market saturation.
+Vehicle Category Analysis:
+
+Sales by Vehicle Category: The report categorizes EV sales by vehicle type (e.g., 4-wheelers, 2-wheelers) and provides insights into which categories are performing best in the market.
+Top 5 EV 4-Wheelers Manufacturers:
+
+The report highlights the top 5 manufacturers of EV 4-wheelers, detailing their market share and contribution to the overall sales. This section provides a competitive analysis of leading brands in the EV space.
