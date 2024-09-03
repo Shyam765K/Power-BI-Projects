@@ -34,3 +34,9 @@ Sum of Taxes: Total tax revenue from all sales transactions, assisting in tax-re
 Sum of Discounts by Year: A yearly breakdown of discounts provided, to monitor promotional activities and their impact on sales.
 
 Count of Orders by Year: The number of orders received each year, providing insights into growth trends or fluctuations in demand.
+
+# 2)Electric Vechile Report
+
+![Sc![Screenshot 2024-09-03 203326](https://github.com/user-attachments/assets/d755286c-f487-4dc7-919e-fc8c5dfdde6a)
+reenshot 2024-09-03 203248](https://github.com/user-attachments/assets/82e63ada-2496-4cf2-95de-c67e5b78146e)
+
